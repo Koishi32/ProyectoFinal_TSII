@@ -42,7 +42,7 @@ namespace NVIDIA.Flex
     {
         #region Constants
 
-        public static Color PARTICLE_COLOR = new Color(1.0f, 1.0f, 1.0f);
+        public static Color PARTICLE_COLOR = new Color(0.0f, 1.0f, 1.0f);
         public static Color CLOTH_COLOR = new Color(248, 137, 86) / 255.0f;
         public static Color NOZZLE_COLOR = new Color(152, 248, 248) / 255.0f;
         public static Color[] SHAPE_COLORS = new Color[] { new Color(255, 192, 203) / 255.0f,
@@ -117,7 +117,7 @@ namespace NVIDIA.Flex
 
         #region Private
 
-        const string PARTICLES_SHADER = "Flex/FlexDrawParticles";
+        const string PARTICLES_SHADER = "Flex/FlexPartColors";
 
         void Create()
         {
