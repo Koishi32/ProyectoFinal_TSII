@@ -1,0 +1,314 @@
+fileFormatVersion: 2
+guid: 83689426f1e37be4791a77287480ac12
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blue_FeelersMat
+    second: {fileID: 2100000, guid: f3665a919b6482d479e8f9220a81cc12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body_back001Mat
+    second: {fileID: 2100000, guid: 4f4ea009c4e2c4340abc21b0a79acfdf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body_backMat
+    second: {fileID: 2100000, guid: ad53c36d9b8e9414687ba47d7c3c5e42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body_centre001Mat
+    second: {fileID: 2100000, guid: afde7e23230e88a46994304c05d452be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body_centreMat
+    second: {fileID: 2100000, guid: 5224749b141f0fd4db8bc6453e51b889, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BublesMat
+    second: {fileID: 2100000, guid: 60bef63dad537c44ba9161b52bead4fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Clownfish001Mat
+    second: {fileID: 2100000, guid: 3313e58de4c6f604fac4a46eb7a2070c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ClownfishMat
+    second: {fileID: 2100000, guid: ed2c326f185ede4448787ecc6f6cd2ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Coral_Rock003Mat
+    second: {fileID: 2100000, guid: aac838698cb25a14298098777f00e7d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Coral_Rock004Mat
+    second: {fileID: 2100000, guid: 25eb7b92f9c3d2c4e9b63c0be5c059a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Coral_Rock1Mat
+    second: {fileID: 2100000, guid: 6f56a79c3cac411438523a2258826794, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Coral_Rock2Mat
+    second: {fileID: 2100000, guid: 204f9cddca00fa54481817102bac43c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fin_Begin001Mat
+    second: {fileID: 2100000, guid: b5a147d6dc8197a45894e0bf449e4702, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fin_BeginMat
+    second: {fileID: 2100000, guid: 91451c5217c83364db098f02067e59cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fin_Begin_mirrored_001Mat
+    second: {fileID: 2100000, guid: 564a8c892a10d754b92e58e03133dae0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fin_Begin_mirrored_Mat
+    second: {fileID: 2100000, guid: b8c677a48f738b7408e67d02b68f2a8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fin_End001Mat
+    second: {fileID: 2100000, guid: 7ccc5ff08b92f2b4f8451d60d4bd6992, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fin_EndMat
+    second: {fileID: 2100000, guid: d05c71d3593c6de459f26a060baefcde, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fin_End_mirrored_001Mat
+    second: {fileID: 2100000, guid: 622e56ec56fad4440aeddf96b189f430, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fin_End_mirrored_Mat
+    second: {fileID: 2100000, guid: fcb4fad2bafe5e943845756713929e6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Purple_FeelersMat
+    second: {fileID: 2100000, guid: 52067cb18a02b0240b97f2bae1c5a660, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Red_FeelersMat
+    second: {fileID: 2100000, guid: 5cac9a464f80ffb4389ce55d5e351933, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sea_BottomMat
+    second: {fileID: 2100000, guid: 40f942ffba2e78c4a9dea73ac049f172, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tail_back001Mat
+    second: {fileID: 2100000, guid: bb59e9655c5ebce4c8a941b31f26217a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tail_backMat
+    second: {fileID: 2100000, guid: f017fcbf8001e664f89d8764a3486795, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tail_to_body001Mat
+    second: {fileID: 2100000, guid: 5fb057153e08e1d48a4c381b163fc3a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tail_to_bodyMat
+    second: {fileID: 2100000, guid: 14938e8f20d2f1346a02c881e703fa79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Urchent_BodyMat
+    second: {fileID: 2100000, guid: 8a4e2115b6be2d34c82d2e00e09865f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WaterMat
+    second: {fileID: 2100000, guid: 2399d73faeef4704590aeeddec47e2ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: body_to_shoulder001Mat
+    second: {fileID: 2100000, guid: 761dafbf5cbd30846b9fb4795fb42b6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: body_to_shoulderMat
+    second: {fileID: 2100000, guid: 8b79ef1ab978ad043b468ef1a671de1b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: body_to_shoulder_mirrored_001Mat
+    second: {fileID: 2100000, guid: 619a00a298886194880c6ebffa573cad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: body_to_shoulder_mirrored_Mat
+    second: {fileID: 2100000, guid: 7fd6f950a87ddfa49bd1b7e49d5a959a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: head001Mat
+    second: {fileID: 2100000, guid: e85d14a73a186c4419a2c698e4d0ac60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: headMat
+    second: {fileID: 2100000, guid: f8f9eef338aa1e84e980a55332bfbf8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: neck001Mat
+    second: {fileID: 2100000, guid: 80112bda7cecffb48a69bb0b9406758f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: neckMat
+    second: {fileID: 2100000, guid: 56298f4efaeb7074b9e5827b5a3554c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shoulder001Mat
+    second: {fileID: 2100000, guid: 59598c076b0cc5b4fb59166a249a6ad2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shoulderMat
+    second: {fileID: 2100000, guid: 9caa2ddf457535a4cb26b978bbf255ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shoulder_mirrored_001Mat
+    second: {fileID: 2100000, guid: b11225b20af215e42b63e7513cbaaefa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shoulder_mirrored_Mat
+    second: {fileID: 2100000, guid: a837b4cdbfdac2b469e914ea31f6478c, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,9 +1,14 @@
 fileFormatVersion: 2
-guid: 9c0f9282b2c97cf498bf0340fb782258
+guid: 6eb2547f48716964898fffdfeef1093d
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AjoFlesh2.001
+    second: {fileID: 2100000, guid: 986bf393b1d82fa44a56eade81108ca3, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -33,9 +38,9 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: AjoloteAnimado|ArmatureAction.002
-      takeName: AjoloteAnimado|ArmatureAction.002
-      internalID: 1102379809070970733
+      name: Armature|ArmatureAction.002
+      takeName: Armature|ArmatureAction.002
+      internalID: 6093225430303232669
       firstFrame: 0
       lastFrame: 79
       wrapMode: 0
@@ -61,10 +66,10 @@ ModelImporter:
       maskType: 3
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
-    isReadable: 0
+    isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 1
+    globalScale: 0.3
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
@@ -117,7 +122,7 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 1
+    globalScale: 0.003
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
