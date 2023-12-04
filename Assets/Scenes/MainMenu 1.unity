@@ -520,7 +520,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 920824394}
         m_TargetAssemblyTypeName: menuChage, Assembly-CSharp
-        m_MethodName: LoadScene3
+        m_MethodName: Quit_final
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
