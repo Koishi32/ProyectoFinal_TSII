@@ -53,10 +53,10 @@ public class CameraMovement : MonoBehaviour
             Vector3 newPosition = transform.position;
             if (Input.GetKey(KeyCode.Space))
             { //If player wants to move on X and Z axis only
-                transform.Translate(p);
-                newPosition.x = transform.position.x;
-                newPosition.z = transform.position.z;
-                transform.position = newPosition;
+                //transform.Translate(p);
+                //newPosition.x = transform.position.x;
+                //newPosition.z = transform.position.z;
+                //transform.position = newPosition;
             }
             else
             {

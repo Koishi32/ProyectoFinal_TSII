@@ -19,4 +19,7 @@ public class menuChage : MonoBehaviour
     {
         SceneManager.LoadScene(i);
     }
+    public void Quit_final() {
+        Application.Quit();
+    }
 }

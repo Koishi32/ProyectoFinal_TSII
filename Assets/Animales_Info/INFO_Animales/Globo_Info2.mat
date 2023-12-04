@@ -8,13 +8,13 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Globo_Info2
-  m_Shader: {fileID: 10752, guid: 0000000000000000f000000000000000, type: 0}
-  m_ValidKeywords: []
-  m_InvalidKeywords:
+  m_Shader: {fileID: 4800000, guid: 2914c939860ab3b40b0972bf8aedb87f, type: 3}
+  m_ValidKeywords:
   - _DETAILSOURCE_SPECULARALPHA
-  - _ENABLETRIPLANARPROJECTION_ON
   - _SOURCE_SPECULARALPHA
   - _TRIPLANARSPACEPROJECTION_OBJECTSPACE
+  m_InvalidKeywords:
+  - _ENABLETRIPLANARPROJECTION_ON
   - _USEAOFROMMAINPROPERTIES_ON
   - _USEEMISSIONFROMMAINPROPERTIES_ON
   m_LightmapFlags: 4
@@ -122,7 +122,7 @@ Material:
     - _Source: 0
     - _SourceMask: 0
     - _SpecularHighlights: 1
-    - _SpecularIntensity: 0.2
+    - _SpecularIntensity: 0
     - _SpreadDetailMap: 0
     - _SpreadTransparentMap: 0
     - _SrcBlend: 1
